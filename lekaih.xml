@@ -335,6 +335,11 @@
     <icon src="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png" />
     <url>http://www.unifi_en.com.my</url>
   </channel>
+  <channel id="INFO">
+    <display-name lang="en">INFO TOKEN</display-name>
+    <icon src="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png" />
+    <url>http://www.unifi_en.com.my</url>
+  </channel>
 
  <programme start="20220914000000 +0000" stop="20250914235900 +0000" channel="INFO">
     <title lang="en">INFO TOKEN</title>
