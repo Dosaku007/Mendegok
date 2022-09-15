@@ -335,6 +335,14 @@
     <icon src="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png" />
     <url>http://www.unifi_en.com.my</url>
   </channel>
+
+ <programme start="20220914000000 +0000" stop="20250914235900 +0000" channel="INFO">
+    <title lang="en">INFO TOKEN</title>
+    <desc lang="en">-.(n)</desc>
+  </programme>
+
+
+
   <programme start="20220913000000 +0000" stop="20220913010000 +0000" channel="TV3">
     <title lang="en">Cempaka - Pink Smile</title>
     <desc lang="en">Luna kecewa dengan dirinya kerana tidak membalas cinta Areeq. Luna masih belum dapat membuat keputusan sama ada mahu memilih Iman atau Areeq sebagai kekasihnya. Areeq akhirnya membawa diri ke kampung.(n)</desc>
